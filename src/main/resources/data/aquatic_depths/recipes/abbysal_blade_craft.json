@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "aquatic_depths:abyssalingot"
+    },
+    "1": {
+      "item": "aquatic_depths:abyssalingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aquatic_depths:abbysal_blade",
+    "count": 1
+  }
+}

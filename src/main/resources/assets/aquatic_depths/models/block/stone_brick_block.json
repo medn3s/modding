@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aquatic_depths:blocks/minecraft_shablony",
+    "up": "aquatic_depths:blocks/minecraft_shablony",
+    "north": "aquatic_depths:blocks/minecraft_shablony",
+    "east": "aquatic_depths:blocks/minecraft_shablony",
+    "south": "aquatic_depths:blocks/minecraft_shablony",
+    "west": "aquatic_depths:blocks/minecraft_shablony",
+    "particle": "aquatic_depths:blocks/minecraft_shablony"
+  }
+}

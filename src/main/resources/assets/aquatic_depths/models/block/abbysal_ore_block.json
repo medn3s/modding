@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aquatic_depths:blocks/oreblock",
+    "up": "aquatic_depths:blocks/oreblock",
+    "north": "aquatic_depths:blocks/oreblock",
+    "east": "aquatic_depths:blocks/oreblock",
+    "south": "aquatic_depths:blocks/oreblock",
+    "west": "aquatic_depths:blocks/oreblock",
+    "particle": "aquatic_depths:blocks/oreblock"
+  }
+}

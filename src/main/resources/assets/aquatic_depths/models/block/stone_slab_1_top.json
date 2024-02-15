@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "top": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "side": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2"
+  }
+}

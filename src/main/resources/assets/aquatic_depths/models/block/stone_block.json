@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "up": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "north": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "east": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "south": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "west": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2",
+    "particle": "aquatic_depths:blocks/1669925230_kartinkin-net-p-tekstura-bedroka-instagram-2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Aquatic Depths",
+    "icon": {
+      "value": "Items.DYE#18"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aquatic_depths:blocks/pierre_moussu",
+    "up": "aquatic_depths:blocks/pierre_moussu",
+    "north": "aquatic_depths:blocks/pierre_moussu",
+    "east": "aquatic_depths:blocks/pierre_moussu",
+    "south": "aquatic_depths:blocks/pierre_moussu",
+    "west": "aquatic_depths:blocks/pierre_moussu",
+    "particle": "aquatic_depths:blocks/pierre_moussu"
+  }
+}

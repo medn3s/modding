@@ -1,0 +1,162 @@
+{
+  "mod_elements": [
+    {
+      "name": "AbyssalWater",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssal_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "AbyssalTrench",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssal_trench"
+    },
+    {
+      "name": "Abyssalore",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssalore"
+    },
+    {
+      "name": "AquaticDepths",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aquatic_depths"
+    },
+    {
+      "name": "Abyssalingot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssalingot"
+    },
+    {
+      "name": "AbbysalOreBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abbysal_ore_block"
+    },
+    {
+      "name": "Darktuman",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darktuman"
+    },
+    {
+      "name": "StoneSlab1",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_slab_1"
+    },
+    {
+      "name": "StoneBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_block"
+    },
+    {
+      "name": "StoneBrickSlab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_brick_slab"
+    },
+    {
+      "name": "StoneBrickBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_brick_block"
+    },
+    {
+      "name": "RuinBrickStoneBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruin_brick_stone_block"
+    },
+    {
+      "name": "RuinBrickStoneSlab",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruin_brick_stone_slab"
+    },
+    {
+      "name": "AbbysalBladeCraft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abbysal_blade_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.aquatic_depths.darktuman": "Dark Void",
+      "block.aquatic_depths.abbysal_ore_block": "Abbysal Ore Block",
+      "block.aquatic_depths.stone_brick_block": "Stone Brick Block",
+      "block.aquatic_depths.stone_block": "Stone Block",
+      "block.aquatic_depths.stone_slab_1": "Stone Slab ",
+      "block.aquatic_depths.stone_brick_slab": "Stone Brick Slab",
+      "item.aquatic_depths.abyssalore": "Abyssal ore",
+      "itemGroup.tabaquatic_depths": "Aquatic Depths",
+      "item.aquatic_depths.abyssalingot": "Abyssal ingot",
+      "block.aquatic_depths.ruin_brick_stone_block": "Ruin Brick Stone Block",
+      "fluid.aquatic_depths.abyssal_water": "Abyssal Water",
+      "block.aquatic_depths.ruin_brick_stone_slab": "Ruin Brick Stone Slab",
+      "block.aquatic_depths.abyssal_water": "Abyssal Water",
+      "biome.aquatic_depths.abyssal_trench": "Abyssal Trench",
+      "item.aquatic_depths.abyssal_water_bucket": "Abyssal Water Bucket"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "aquatic_depths",
+    "modName": "Aquatic Depths",
+    "version": "1.0.0",
+    "author": "Yaroslav, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.aquaticdepths",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

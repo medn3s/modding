@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aquatic_depths:block/ruin_brick_stone_slab"
+    },
+    "type=top": {
+      "model": "aquatic_depths:block/ruin_brick_stone_slab_top"
+    },
+    "type=double": {
+      "model": "aquatic_depths:block/ruin_brick_stone_slab_full"
+    }
+  }
+}

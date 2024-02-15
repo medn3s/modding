@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "aquatic_depths:blocks/pierre_moussu",
+    "top": "aquatic_depths:blocks/pierre_moussu",
+    "side": "aquatic_depths:blocks/pierre_moussu"
+  }
+}
