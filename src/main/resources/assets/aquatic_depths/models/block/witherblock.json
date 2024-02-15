@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aquatic_depths:blocks/withered_bricks",
+    "up": "aquatic_depths:blocks/withered_bricks",
+    "north": "aquatic_depths:blocks/withered_bricks",
+    "east": "aquatic_depths:blocks/withered_bricks",
+    "south": "aquatic_depths:blocks/withered_bricks",
+    "west": "aquatic_depths:blocks/withered_bricks",
+    "particle": "aquatic_depths:blocks/withered_bricks"
+  }
+}

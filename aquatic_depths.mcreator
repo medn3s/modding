@@ -114,14 +114,55 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "abbysal_blade_craft"
+    },
+    {
+      "name": "WitherblockEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "witherblock_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Witherblock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "witherblock"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "WitherPlayerEffect",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "WitheredBricksDamgaeCooldown",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.aquatic_depths.darktuman": "Dark Void",
       "block.aquatic_depths.abbysal_ore_block": "Abbysal Ore Block",
+      "block.aquatic_depths.darktuman": "Dark Void",
       "block.aquatic_depths.stone_brick_block": "Stone Brick Block",
       "block.aquatic_depths.stone_block": "Stone Block",
       "block.aquatic_depths.stone_slab_1": "Stone Slab ",
@@ -130,6 +171,7 @@
       "itemGroup.tabaquatic_depths": "Aquatic Depths",
       "item.aquatic_depths.abyssalingot": "Abyssal ingot",
       "block.aquatic_depths.ruin_brick_stone_block": "Ruin Brick Stone Block",
+      "block.aquatic_depths.witherblock": "Wither brick",
       "fluid.aquatic_depths.abyssal_water": "Abyssal Water",
       "block.aquatic_depths.ruin_brick_stone_slab": "Ruin Brick Stone Slab",
       "block.aquatic_depths.abyssal_water": "Abyssal Water",

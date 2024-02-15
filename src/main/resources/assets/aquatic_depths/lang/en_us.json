@@ -1,6 +1,6 @@
 {
-  "block.aquatic_depths.darktuman": "Dark Void",
   "block.aquatic_depths.abbysal_ore_block": "Abbysal Ore Block",
+  "block.aquatic_depths.darktuman": "Dark Void",
   "block.aquatic_depths.stone_brick_block": "Stone Brick Block",
   "block.aquatic_depths.stone_block": "Stone Block",
   "block.aquatic_depths.stone_slab_1": "Stone Slab ",
@@ -9,6 +9,7 @@
   "itemGroup.tabaquatic_depths": "Aquatic Depths",
   "item.aquatic_depths.abyssalingot": "Abyssal ingot",
   "block.aquatic_depths.ruin_brick_stone_block": "Ruin Brick Stone Block",
+  "block.aquatic_depths.witherblock": "Wither brick",
   "fluid.aquatic_depths.abyssal_water": "Abyssal Water",
   "block.aquatic_depths.ruin_brick_stone_slab": "Ruin Brick Stone Slab",
   "block.aquatic_depths.abyssal_water": "Abyssal Water",
